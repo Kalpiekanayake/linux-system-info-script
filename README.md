@@ -1,16 +1,16 @@
-# 🐧 Linux System Info Script
+#  Linux System Info Script
 
 A simple **Bash script** that displays useful Linux system information in a **colorful and readable format**.  
 
 ##  Features
-- ✅ Show **hostname**
-- ✅ Show **system uptime**
-- ✅ Show **current date & time**
-- ✅ Show **system load**
-- ✅ Show **memory usage**
-- ✅ Show **disk usage**
-- ✅ Show **logged in users**
-- ✅ Beautiful output with **colors & icons**
+-  Show **hostname**
+-  Show **system uptime**
+-  Show **current date & time**
+-  Show **system load**
+-  Show **memory usage**
+-  Show **disk usage**
+-  Show **logged in users**
+-  Beautiful output with **colors & icons**
 
 ##  Installation
 
