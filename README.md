@@ -2,7 +2,7 @@
 
 A simple **Bash script** that displays useful Linux system information in a **colorful and readable format**.  
 
-## ✨ Features
+##  Features
 - ✅ Show **hostname**
 - ✅ Show **system uptime**
 - ✅ Show **current date & time**
@@ -12,7 +12,7 @@ A simple **Bash script** that displays useful Linux system information in a **co
 - ✅ Show **logged in users**
 - ✅ Beautiful output with **colors & icons**
 
-## 📦 Installation
+##  Installation
 
 Clone this repository:
 
